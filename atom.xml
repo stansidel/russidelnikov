@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ssidelnikov.github.io/russidelnikov/atom.xml" rel="self"/>
-  <link href="http://ssidelnikov.github.io/russidelnikov/"/>
-  <updated>2013-09-06T09:44:00+06:00</updated>
-  <id>http://ssidelnikov.github.io/russidelnikov/</id>
+  <link href="http://ru.ssidelnikov.ru/atom.xml" rel="self"/>
+  <link href="http://ru.ssidelnikov.ru/"/>
+  <updated>2013-09-06T09:51:01+06:00</updated>
+  <id>http://ru.ssidelnikov.ru/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     

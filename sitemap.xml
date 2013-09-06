@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://ssidelnikov.github.io/russidelnikov/blog/archives/</loc>
+        <loc>http://ru.ssidelnikov.ru/blog/archives/</loc>
         <lastmod>2013-09-06T09:32:24+06:00</lastmod>
     </url>
     <url>
-        <loc>http://ssidelnikov.github.io/russidelnikov/</loc>
+        <loc>http://ru.ssidelnikov.ru/</loc>
         <lastmod>2013-09-06T09:32:24+06:00</lastmod>
     </url>
     <url>
-        <loc>http://ssidelnikov.github.io/russidelnikov/robots.txt</loc>
+        <loc>http://ru.ssidelnikov.ru/robots.txt</loc>
         <lastmod>2013-09-06T09:32:24+06:00</lastmod>
     </url>
 </urlset>
